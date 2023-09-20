@@ -6,6 +6,7 @@
     "@ramonak/react-progress-bar": "^5.0.3",
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.4.0",
+    "caniuse-lite": "^1.0.30001538",
     "chart.js": "^4.4.0",
     "concurrently": "^8.2.0",
     "copy-to-clipboard": "^3.3.3",
